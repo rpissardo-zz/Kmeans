@@ -1,5 +1,20 @@
 # Kmeans
-Coding a kmeans code that read a database with 4 attributes and n classes
+Coding a kmeans code that read a database with 4 attributes and n classes.
+
+I am using, 3 datasets. 
+
+## cancer.data
+- has 2 classes
+
+## arrythmia.data
+- has 16 classes
+
+## iris.data
+- has 3 classes
+
+## Number of Clusters
+
+So, because of numbers above, I choose to generate three graphs with 2, 3, and 16 clusters.
 
 # Datasets
 
